@@ -27,6 +27,21 @@ const Projects = () => {
       <Wrapper>
         <Card>
           <CardImg>
+            <img src="images/Vela.PNG" alt="loading" />
+          </CardImg>
+          <Disc>A financial technology solutions Company</Disc>
+          <A href="https://vela.com.ng/home">click to visit</A>
+        </Card>
+        <Card>
+          <CardImg>
+            <img src="images/BusinessAfrica.PNG" alt="loading" />
+          </CardImg>
+          <Disc>An organization focused on shaping and investing in the
+future of Africa.</Disc>
+          <A href="https://distress-cl.herokuapp.com">click to visit</A>
+        </Card>
+        <Card>
+          <CardImg>
             <img src="sos.png" alt="loading" />
           </CardImg>
           <Disc>A distress call app </Disc>

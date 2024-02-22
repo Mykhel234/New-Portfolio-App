@@ -47,7 +47,7 @@ const About = () => {
             I specialize in crafting innovative solutions that bridge the gap between technology and user needs. My expertise encompasses a broad range of technologies; and With a keen eye for detail and a commitment to excellence, I am able to collaborate closely with clients to deliver projects that exceed expectations.
             </Text>
             <Button
-              href="https://drive.google.com/file/d/1SmMqAIwsObdFZ0krNpO9mjAs6ajqRq4A/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1e7Pr4CXiJlu1zsW61E7I8PhF3i5cxyFZ/view?usp=drive_link"
               download
             >
               <span>Download CV</span>
